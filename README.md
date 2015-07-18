@@ -26,15 +26,15 @@ https://github.com/psygrammer/complexity
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
-| 1 |6/27|1장 함수 							|송영숙|[발표자료](./season_one/ch1/ch1codingthematrix.ipynb )|
-|   |    |보강) theano로 보여주는 수학(설치와 실습)   |심상진|[발표자료](./season_one/ch1/Basic Of Symbolic Computation.ipynb)|
+| 1 |6/27|1장 함수 							|송영숙|[발표자료](http://nbviewer.ipython.org/github/psygrammer/complexity/blob/master/season_one/ch1/ch1codingthematrix.ipynb )|
+|   |    |보강) theano로 보여주는 수학(설치와 실습)   |심상진|[발표자료](http://nbviewer.ipython.org/github/psygrammer/complexity/blob/master/season_one/ch1/Basic Of Symbolic Computation.ipynb)|
 | 2 |7/4 |2장 필드 							|송치성|    |
-|   |    |2장 2.7, 연습문제					    |송근창|[발표자료](./season_one/ch2/./season_one/ch2/CodingTheMatrix-2.7-Problems.ipynb)     |
+|   |    |2장 2.7, 연습문제					    |송근창|[발표자료](http://nbviewer.ipython.org/github/psygrammer/complexity/blob/master/season_one/ch2/CodingTheMatrix-2.7-Problems.ipynb)     |
 |   |    |3장 벡터 (3.9,14,연습문제)			   |심상진|      |
-| 3 |7/11|3장 벡터 (3.1~3.7)	            	 |김명철|[발표자료](./season_one/ch3/Ch3_Vector.ipynb)|
+| 3 |7/11|3장 벡터 (3.1~3.7)	            	 |김명철|[발표자료](http://nbviewer.ipython.org/github/psygrammer/complexity/blob/master/season_one/ch3/Ch3_Vector.ipynb)|
 |   |7/18|내적의 대수적 정의와 기하학적 정의  			|고재선|				|
-|	|	 |4장 벡터공간							|홍수린|[발표자료](./season_one/ch4/150718_4.vector_space.ipynb      )|
-|	|	 |5장 행렬(5.1~)						|이세리|[발표자료](./season_one/ch5/Ch_5_Matrix5_1_5_8.ipynb)|
+|	|	 |4장 벡터공간							|홍수린|[발표자료](http://nbviewer.ipython.org/github/psygrammer/complexity/blob/master/season_one/ch4/150718_4.vector_space.ipynb      )|
+|	|	 |5장 행렬(5.1~)						|이세리|[발표자료](http://nbviewer.ipython.org/github/psygrammer/complexity/blob/master/season_one/ch5/Ch_5_Matrix5_1_5_8.ipynb)|
 | 4 |7/25|6장 기저(6.1~6.4)					|박재도||
 |	|	 |6장 기저(6.7~6.11)					|심상진||
 | 5 |8/1 |5장 행렬(5.9~)						|문성원||
