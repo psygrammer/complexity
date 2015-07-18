@@ -1,9 +1,10 @@
-# complexity
-복작복잡스핀
+# Complexity
+복작복잡스핀 
 
 
 # 스터디 정보 
-
+* 모임시간
+  매주 토요일, 저녁 4~7시
 * 주교재:필립 크라인, 코딩 더 매트릭스
 http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791195149292&orderClick=LAG&Kc*
 
