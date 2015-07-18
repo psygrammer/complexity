@@ -3,21 +3,20 @@
 
 
 # 스터디 정보 
-* 모임시간
-  매주 토요일, 저녁 4~7시
+* 모임시간 : 매주 토요일, 저녁 4~7시
 * 주교재:필립 크라인, 코딩 더 매트릭스
 http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791195149292&orderClick=LAG&Kc*
 
-* 관련 강좌: Coding the Matrix: Linear Algebra through Computer Science Applications 
+* 관련 강좌 : Coding the Matrix: Linear Algebra through Computer Science Applications 
 https://www.coursera.org/course/matrix
 
-* 참고 교재: MARY L. BOAS, 수리물리학2판기준
+* 참고 교재 : MARY L. BOAS, 수리물리학2판기준
 http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788971292396&orderClick=LEB&Kc
 
-* 코딩더매트리스 소스코드 받으실 곳:
+* 코딩더매트리스 소스코드 받으실 곳 :
  http://resources.codingthematrix.com/
  
-* 복작복잡스터디 깃허브주소:
+* 복작복잡스터디 깃허브주소 :
 https://github.com/psygrammer/complexity
 
 
